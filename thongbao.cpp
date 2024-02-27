@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	cout<<"hello";
+	cout<<"Chào nhánh 2 ";
 	return 0;
 }
